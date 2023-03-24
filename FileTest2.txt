@@ -1,3 +1,5 @@
 FileTest2 is this file
 
+I made some changes to this file in the 3rd commit
+
 Shoh J
