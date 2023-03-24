@@ -1,1 +1,3 @@
-File Test is about to be pushed to github
+File Test is about to be pushed to GitHub
+
+"Note: I made this change in the second commit"
